@@ -1,1 +1,3 @@
-## This it a README file
+## Epidemic Simulation
+
+Run simulation of disease spread.
